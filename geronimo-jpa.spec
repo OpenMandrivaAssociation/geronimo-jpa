@@ -3,7 +3,7 @@
 
 Name:           geronimo-jpa
 Version:        1.1.1
-Release:        5
+Release:        7
 Summary:        Java persistence API implementation
 
 Group:          Development/Java
