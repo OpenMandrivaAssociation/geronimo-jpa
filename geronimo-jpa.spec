@@ -8,7 +8,7 @@ Release:        13.0%{?dist}
 Summary:        Java persistence API implementation
 
 License:        ASL 2.0
-URL:            http://geronimo.apache.org/
+URL:            https://geronimo.apache.org/
 # Unfortunately no source release was created in
 # http://repo2.maven.org/maven2/org/apache/geronimo/specs/geronimo-jpa_3.0_spec/1.1.1/
 # so we do:
